@@ -1,0 +1,88 @@
+,id,name,lat,lng,category
+0,5db81046e5f99900080d6018,KMRT Formosa Boulevard Station Orange Line Platform (To Daliao) (高雄捷運美麗島站橘線月臺（往大寮）),22.631245,120.30338,Platform
+1,4c5bd760bfa5952176bc69ff,THSR Tainan Station (高鐵台南站),22.924633253266112,120.28576018076731,Train Station
+2,4b62c457f964a520d9512ae3,THSR Zuoying Station (高鐵左營站),22.6870725596051,120.30794319560208,Train Station
+3,5c2d568e0d2be7002c6bdebf,TRA Kaohsiung Sta. Platform 1A (臺鐵高雄車站1A月台),22.639855,120.302257,Platform
+4,5c2daa7e3abcaf002c886e6f,TRA Kaohsiung Sta. Platform 2A (臺鐵高雄車站2A月台),22.639534,120.302552,Platform
+5,4c2fd8c57cc0c9b60c82ec9a,TRA Pingtung Station (臺鐵屏東車站),22.668879793867923,120.48587549743498,Train Station
+6,4d2082fbd7b0b1f7ea5e159f,TRA Shalun Station (臺鐵沙崙車站),22.923403570111216,120.28665564841943,Train Station
+7,4cf252fe1c158cfa56f9d6b5,TRA Chaozhou Station (臺鐵潮州車站),22.550165,120.53604,Train Station
+8,599b05eb603d2a701964cd28,KLRT Pier-2 Ponglai Sta. (C13) (環狀輕軌駁二蓬萊站 (C13)),22.620752,120.279248,Light Rail Station
+9,4cad15df14c337043516f63b,TRA Kaohsiung Station (臺鐵高雄站),22.639837982770437,120.30211687088011,Train Station
+10,53048ac2498eff3c41f5e583,高鐵左營站第一月台  THSR Zuoying Station Platform 1,22.686865286547285,120.30760363252249,Platform
+11,532177cd498e91e3b8480a81,高鐵左營站第三月台 THSR Zuoying Station Platform 3,22.6869116732137,120.30771410771523,Platform
+12,4bda5df463c5c9b677ed2368,TRA Dahu Station (臺鐵大湖車站),22.878291871638947,120.25417228061245,Train Station
+13,5b99ceeeacb00b002c8fa3a6,TRA Neiwei Station (臺鐵內惟車站),22.665279,120.286733,Train Station
+14,5b99ccf83d4791002cf7c2a7,台鐵正義車站 TRA Zhengyi Station,22.634401,120.341744,Train Station
+15,4f37748e6b744f12c17a825b,TRA Lioukuaicuo Station (臺鐵六塊厝車站 TRA Lioukuaicuo Station),22.665711019251837,120.46474315457087,Train Station
+16,5119cb1be4b0502d6db8e014,旗山車站 Qishan Train Station,22.88486495946165,120.48200297238328,Historic Site
+17,5b99d0049ba3e5002cf9d210,臺鐵三塊厝站 (台鐵 三塊厝車站),22.639009,120.293325,Train Station
+18,4eed9c2a46907303bf3fa7ac,TRA Xishi Station (臺鐵西勢車站),22.615772185827854,120.52654619466772,Train Station
+19,51aad7fe498ed9fd8d3fecf5,高鐵左營站第二月台 THSR Zuoying Station Platform 2,22.686943334806916,120.30774445656117,Platform
+20,4d4cbd26fe7fb1f729795442,TRA Xinzuoying Station (臺鐵新左營站),22.687476996648986,120.30720107733033,Train Station
+21,4bdaaff863c5c9b61c9f2468,TRA Lujhu Station (臺鐵路竹車站),22.85402920717696,120.26628320437207,Train Station
+22,4dbd42981e72b351cac620f1,TRA Fengshan Station (臺鐵鳳山車站 TRA Fengshan Station),22.631857687238377,120.35732982218452,Train Station
+23,4bdab11e3904a593fb07479e,TRA Qiaotou Station (臺鐵橋頭車站 TRA Qiaotou Station),22.760828501924742,120.31056837820273,Train Station
+24,4bdab08f3904a593dc06479e,臺鐵岡山車站 TRA Gangshan Station,22.79219312263406,120.3004415056581,Train Station
+25,4d4cbbfc72eba1434dad3a12,TRA Zuoying Station (臺鐵左營火車站 TRA Zuoying Station),22.67510956371255,120.2948994404734,Train Station
+26,4fafad2ee4b09f9a2ac77267,高鐵台南站北上月台 THSR Tainan Northbound Platform,22.924834405242148,120.28614751683743,Platform
+27,4b9c7abaf964a520846b36e3,臺鐵楠梓車站,22.72714223314228,120.32435868024686,Train Station
+28,4e4bc95fd22d8354d6f10adc,高鐵左營基地 THSRC Zuoying Depot,22.688238,120.308871,Building
+29,4bda5d5c2a3a0f4750f9aab6,TRA Zhongzhou Station (臺鐵中洲車站),22.90442785935436,120.25263452750964,Train Station
+30,4d1722aab15cb1f77d29b221,TRA Nanjhou Station (臺鐵南州車站 TRA Nanjhou Station),22.491963162544344,120.51170906609764,Train Station
+31,4cb822b7dd41a35dcb3ad8a0,TRA Linbian Station (臺鐵林邊車站 TRA Linbian Station),22.431484326596294,120.51544746686311,Train Station
+32,4db587a66e8179a913914e28,TRA Jiuqutang Station (臺鐵九曲堂車站 TRA Jiuqutang Station),22.65577760216454,120.42119229633396,Train Station
+33,5bdb7bb123a2e60039693de8,TRA Kaohsiung Sta. Platform 2B (臺鐵高雄車站2B月台),22.63967,120.302179,Platform
+34,4bda1ee963c5c9b628d72268,TRA Yongkang Station (臺鐵永康車站),23.039042127149955,120.25410398497945,Train Station
+35,4bda5bb23904a593c14b469e,臺鐵保安車站 TRA Baoan Station,22.932925048398136,120.23157468400652,Train Station
+36,4f377b4e6b744f12c17af927,TRA Jiadong Station (臺鐵佳冬車站 TRA Jiadong Station),22.41408339080135,120.54767847061157,Train Station
+37,4ba40d4cf964a520207c38e3,TRA Tainan Station (臺鐵臺南車站 TRA Tainan Station),22.996797484116804,120.21276047446092,Train Station
+38,4bda28c52a3a0f47e519aab6,TRA Daqiao Station (臺鐵大橋車站),23.019348576676542,120.22421067227631,Train Station
+39,521a1cbe7e48ec5f7428a1a5,TRA Tainan Station Platform 2 (臺鐵臺南車站第2月台),22.99688450382557,120.2129676952631,Platform
+40,605c9ea6cb3b981329edf2bd,声美社鉄,22.985098,120.19454,Train Station
+41,5f59bda8dad8070f08303a79,臺鐵臺南車站後站,22.996897,120.213531,Train Station
+42,5219fdad11d2f9bf4a9f8dd7,TRA Tainan Station Platform 1,22.997064582102777,120.21288069552035,Platform
+43,4e474488483b03d090ec9f5b,TRA Fangliao Station (臺鐵枋寮車站),22.368099203409187,120.59512211992528,Train Station
+44,4f377cf26b744f12c17b154c,TRA Neishih Station (臺鐵內獅車站 TRA Neishih Station),22.306190026606313,120.64338381748937,Train Station
+45,50b4bf6ce4b0be5fbe33bf86,TRA Nanke Station Platform 1 (台鐵南科站第一月台 TRA Nanke Station Platform 1),23.107113993275604,120.30190901820174,Platform
+46,50aa64d77ab4a85700646a3c,TRA Nanke Station (台鐵南科車站 TRA Nanke Station),23.107389399394847,120.30197209286156,Train Station
+47,4bda0e39c79cc9280a427de9,臺鐵善化車站,23.13335203873204,120.30664443969727,Train Station
+48,4bda1ca263c5c9b64fca2268,TRA Sinshin Station (臺鐵新市車站),23.068105214959242,120.29012672697637,Train Station
+49,5cd1022d9fca56002c853e49,臺鐵長榮大學站第2月台,22.907068,120.272189,Platform
+50,5cd0deab7dc9e1002cd63eb0,TRA Zhongzhou Station Platform 1 (臺鐵中洲車站第1月台),22.904443,120.252596,Platform
+51,58897a5ca598b3028d5c9c52,THSR Tainan Southbound Platform (高鐵台南站南下月台),22.924945,120.286195,Platform
+52,529dd875498ee11fd35aa8b4,臺鐵仁德車站 TRA Rende Station,22.923676600275055,120.24029924525018,Train Station
+53,5d04a9b4b6eedb002cc7cbfb,TRA Yongkang Station Platform 1 (臺鐵永康站第1月台),23.038535,120.253598,Platform
+54,5da98954d1709e00086e6aa1,platform 2,22.586657,120.539777,Platform
+55,5a251b6718d43b3bdd78c4a5,TRA Pingtung Station Platform 2B (臺鐵屏東車站2B月台),22.668859,120.485916,Platform
+56,5d0cc3338c3f0400239c2a65,臺鐵楠梓車站第1月台,22.72703,120.324149,Platform
+57,5d53ed98a7902b00075fbe12,臺鐵楠梓車站第2月臺,22.727197,120.324154,Platform
+58,4bda090c2a3a0f47a56da9b6,TRA Balin Station (臺鐵拔林車站),23.172547726134123,120.32119274139404,Train Station
+59,6058942d095033166afa3773,殿容社鉄,23.192514,120.320946,Train Station
+60,5d041dc1135b39002c4db720,TRA Yongkang Station Platform 2 (臺鐵永康站第2月台),23.038394,120.253628,Platform
+61,56f7ea37498e430c1384bcca,Shanhua Station Platform 1 (善化車站第一月台),23.133340396660255,120.30664443969727,Platform
+62,4bda00962a3a0f473044a9b6,TRA Linfengying Station (臺鐵林鳳營車站 TRA Linfengying Station),23.242641724434257,120.32088121678352,Train Station
+63,4bda04862a3a0f47c356a9b6,臺鐵隆田車站 TRA Longtian Station,23.192701018924986,120.31916535933965,Train Station
+64,4bd9f873c79cc92821dc7ce9,臺鐵後壁車站 TRA Houbi Station,23.355839358035695,120.35706523048174,Train Station
+65,4f73b403e4b0fbbf03a95481,忠興午分灰車頭,23.32921662977711,120.37425131273726,Train Station
+66,5060082ee4b0211decfab80a,內埕車站,23.329224149883686,120.37188153616677,Train Station
+67,5a5f490be1f22807742afdab,TRA TRA Sinshin Station Platform 2 (臺鐵新市車站第二月台),23.068363,120.289777,Platform
+68,5899c2b90a3d545df6459b09,TRA Nanke Station Platform 2 (台鐵南科車站第二月台 TRA Nanke Station Platform 2),23.10733,120.301864,Platform
+69,5b865ae53731ee002c04705e,烏樹林糖業鐵道新頂埤站,23.341521,120.361938,Train Station
+70,505ffd1ce4b00765274a44dd,烏樹林車站,23.32879725833622,120.36185031636965,Train Station
+71,5d5fabee719d570009434cc5,TRA Houbi Station Platform 2 (臺鐵後壁車站第2月臺),23.366426,120.36062,Platform
+72,5d5e5da62a949e0007cf6e32,TRA Houbi Station Platform 1 (臺鐵後壁車站第1月臺),23.366166,120.360543,Platform
+73,4d7accca3fbf6dcb70a56323,Zhaoping Sta. (沼平車站),23.514751,120.814046,Train Station
+74,4cfca3a5c6cca35d8ca09232,Alishan Station (阿里山火車站 Alishan Station),23.510082305291874,120.80421187893316,Train Station
+75,4cdb510c958f236acb6cac03,Zushan Station (祝山火車站),23.510257128734196,120.82335824690142,Train Station
+76,4cb2a82175ebb60c21a2d6ad,奮起湖火車站 Fenqihu Station,23.50537364351572,120.6950683604842,Train Station
+77,5d1c33b3a18cd5002f4369c3,Shizilu Station (十字路車站),23.492693,120.754745,Train Station
+78,52c36a0a11d20a3041c2dd74,對高岳火車站,23.516981,120.819825,Train Station
+79,5a090443446ea61a3f5b6c6d,Erwanping Station (二萬平車站),23.50931,120.790311,Train Station
+80,50b6fface4b09e9b74303f2a,Jiaoliping Station (交力坪車站),23.531702859756493,120.6436815196721,Train Station
+81,50ffa60fe4b0176c7335b010,Lumachan Station (鹿麻產車站),23.504054646007997,120.53138120469885,Train Station
+82,571f678a498ec67a2dcd2043,Shuisheliao Station (台鐵水社寮車站),23.504605,120.659923,Train Station
+83,53981f09498e078a6b75ffaf,TRA Pingtung Station Platform 2A (臺鐵屏東車站2A月台),22.668956976651675,120.48572212457657,Platform
+84,5c9b398518d43b002c5c1931,TRA Pingtung Station Platform 1B (臺鐵屏東車站1B月台),22.669447,120.486328,Platform
+85,4f3776666b744f12c17aa513,TRA Linluo Station (臺鐵麟洛車站 TRA Linluo Station),22.635045281851866,120.51446199417114,Train Station
+86,4f3775816b744f12c17a93d1,TRA Guilai Station (臺鐵歸來車站 TRA Guilai Station),22.65234376811933,120.5029445886612,Train Station
