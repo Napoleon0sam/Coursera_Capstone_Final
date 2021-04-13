@@ -10,3 +10,5 @@ I will collect and analyze some data to get the best location in the chosen city
 1. Districts data is scraped from wikipedia.
 2. Detailed census data is downloaded from website of Kaohsiung government and Taiwan government. 
 3. Geospatial data is from geopy and foursquare. 
+
+![Real view from google map](https://github.com/Napoleon0sam/Coursera_Capstone_Final/blob/3eff45a03700746ca4d6797c4c853878259dc9f0/Real%20view%20from%20google%20map.png)
